@@ -1,4 +1,5 @@
-# Experiencia de mineração de dados em avaliação ex-post de políticas na área da cultura...
+# Experiência de mineração de dados em avaliação ex-post de políticas na área da cultura...
+
 Primeiro Script
 install.packages("tm")
 library(tm)
@@ -10,8 +11,8 @@ Texto <- VCorpus(VectorSource(docs))
 Segundo script
 #Carregando todos os arquivos em um único arquivo
 library(tm)
-setwd("/cloud/project/nome da pasta onde se encontram os arquivos)
-arquivotxt <- c("/cloud/project/nome da pasta onde se encontram os arquivos")
+setwd("/cloud/project/**nome da pasta onde se encontram os arquivos**)
+arquivotxt <- c("/cloud/project/**nome da pasta onde se encontram os arquivos**")
 textos <- VCorpus(DirSource(arquivotxt, encoding = "UTF-8"),readerControl = list(language = "lat"))
 VCorpus(VectorSource(textos))
 
