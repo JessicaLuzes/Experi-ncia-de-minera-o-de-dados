@@ -1,4 +1,4 @@
-# Experiencia de mineracao de dados - em avaliação ex-post de políticas na área da cultura
+# Experiencia de mineração de dados em avaliação ex-post de políticas na área da cultura...
 Primeiro Script
 install.packages("tm")
 library(tm)
