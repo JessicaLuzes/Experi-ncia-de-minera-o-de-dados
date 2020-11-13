@@ -1,1 +1,1 @@
-# Experi-ncia-de-minera-o-de-dados
+# Experiencia de mineracao de dados
