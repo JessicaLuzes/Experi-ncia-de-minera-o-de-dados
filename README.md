@@ -1,4 +1,4 @@
-# Experiência de mineração de dados em avaliação ex-post de políticas na área da cultura...
+# Experiência de mineração de dados em avaliação ex-post de políticas na área da cultura - Proposta UFRJ/2020 - Comemoração dos 100 anos da UFRJ
 
 Primeiro Script
 install.packages("tm")
